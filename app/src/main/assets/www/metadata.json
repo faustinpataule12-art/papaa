@@ -1,0 +1,6 @@
+{
+  "name": "Vocal Remover Pro",
+  "description": "Utilisez le traitement du signal (DSP) pour supprimer les voix centrées de n'importe quelle piste stéréo directement dans le navigateur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
